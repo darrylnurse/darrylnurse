@@ -1,6 +1,6 @@
 ## "Hello I am Darryl Nurse" said Darryl Nurse 
 
-![Darryl's GitHub stats](https://github-readme-stats.vercel.app/api?username=darrylnurse\&rank_icon=github&hide=contribs) ![Darryl's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=darrylnurse&layout=compact)
+![Darryl's GitHub stats](https://github-readme-stats.vercel.app/api?username=darrylnurse\&rank_icon=github&hide=contribs) &nbsp; &nbsp; &nbsp; ![Darryl's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=darrylnurse&layout=compact)
 
 <!--
 **darrylnurse/darrylnurse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
